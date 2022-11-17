@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="936aed12-9774-4fe5-a264-17b7e49b45e9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../andradeju" beforeDir="false" afterPath="$PROJECT_DIR$/../../andradeju" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetoFolhaPag/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjetoFolhaPag/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste/.idea/teste.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projects/minha-rua-master/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projects/minha-rua-master/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projects/minha-rua-master/img/icon-house.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projects/minha-rua-master/img/icon-plus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projects/minha-rua-master/img/icon-search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projects/minha-rua-master/img/icon-street.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projects/minha-rua-master/img/icon-uf.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projects/minha-rua-master/img/truck.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projects/minha-rua-master/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projects/minha-rua-master/js/api.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="dev" />
+                    <option name="lastUsedInstant" value="1668714770" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1668714769" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$/../.." />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HHJfIrStuBKGd26LII5pH5aGga" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="PIBank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="app.PIBank" />
+      <module name="ProjetoPI_Bank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PIBank" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="936aed12-9774-4fe5-a264-17b7e49b45e9" name="Changes" comment="" />
+      <created>1667936181252</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667936181252</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
